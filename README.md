@@ -67,3 +67,6 @@ The **Transaction Banking System** is a database system designed to handle custo
 ## Author
 Mikhael Edman P. Gomez
 
+## Link & References
+- [Documentation](https://docs.google.com/document/d/1YyMaBH3jv1cHICCrNv3u8prOoUobIJWI/edit?usp=sharing&ouid=116709682777897150867&rtpof=true&sd=true)
+
