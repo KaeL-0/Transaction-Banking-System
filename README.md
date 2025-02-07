@@ -1,7 +1,7 @@
 # Transaction Banking System
 
 ## Project Overview
-The **Transaction Banking System** is a database system designed to handle customer accounts, transactions, and banking operations efficiently. It consists of tables for customers, accounts, and transactions, as well as stored procedures for depositing and withdrawing funds.
+The **Transaction Banking System** is a database system designed to handle customer accounts, transactions, and banking operations. It consists of tables for customers, accounts, and transactions, as well as stored procedures for depositing and withdrawing funds.
 
 ## Features
 - **Customer Management**: Store and retrieve customer details.
